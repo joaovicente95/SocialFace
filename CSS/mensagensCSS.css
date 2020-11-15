@@ -1,0 +1,40 @@
+.AmigosCSS {    
+    height: auto;
+}
+.MensagensCSS {    
+    height: 100%;
+    font-size: larger;
+}
+#TextBoxMensagem{
+    background-color:#c0c0c0;
+    color: black;    
+}
+
+.panel-heading{
+    background-color:white;
+    border-color: white;
+    height: auto;
+    font-size: x-large;
+}
+.panel-body{
+    background-color:white;
+    border-color: white;
+    height: 84%;
+}
+.panel-footer{
+    background-color: #ffffff !important;
+    border-color: white;
+    height: auto;
+    margin: 0;
+}
+.row{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#TextoMensagens{
+    overflow-wrap:break-word; 
+    max-width:50%     
+}
+
+

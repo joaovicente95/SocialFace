@@ -1,0 +1,58 @@
+textarea {
+    resize: none;
+    margin-bottom:  10px;
+}
+
+.escreverPost, #listPost{
+    margin:auto;
+    width: 60%;
+    min-width: 35%;
+}
+
+.headerES{
+    background-color: white;
+    height: auto;
+    font-size: large;
+}
+.panel{
+    border-color: #d5d5d5 !important;
+    border-style: solid;
+    border-width: 3px !important;
+}
+
+.footerES{
+    background-color: white !important;    
+    height: auto;
+    margin: 0;
+    border: 0;
+}
+
+.dataPOST{
+    padding-top:10px;
+    font-size: medium;
+    color: #b4b9c1;
+}
+
+.textPOST{
+    padding-left:20px;
+    font-size:larger;
+    font-weight: normal;
+    overflow-wrap:break-word; 
+
+}
+
+.ComentarioPost{
+    overflow-y: scroll;
+    height: auto;
+    max-height:30%;
+    margin-bottom:10px;
+    padding-left: 30px;
+}
+
+.panel-body{
+    padding: 8px !important;
+}
+
+.PalLike{
+    margin-bottom: 10px;
+}
